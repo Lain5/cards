@@ -4,5 +4,7 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"python.pythonPath": "C:\\Users\\thewi\\Anaconda3\\envs\\cards\\python.exe"
+	}
 }
